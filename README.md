@@ -1,4 +1,4 @@
-# Python-Network-sequrity-project
+# Python-Network-security-project
 Hi I am Rahul
 I creat this password encryption project with MD5 
 
